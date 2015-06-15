@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<title>FACEBLOG.WEB.ID - Your Micro-Social Network</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="microblogging, sharetronix, blogtronix, enterprise microblogging">
+<link href="http://www.faceblog.web.id/storage/attachments/1/favicon_1425112851916680.ico" type="image/x-icon" rel="shortcut icon" />
+<link href="http://www.faceblog.web.id/static/css/mobile-login.css" type="text/css" rel="stylesheet" />
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	</head>
+	<body>
+	
+		<div id="logo">
+			<a href="http://www.faceblog.web.id/m/home" title="FACEBLOG.WEB.ID" class="system-logo"><img src="http://www.faceblog.web.id/storage/attachments/1/logo_1425112598479165.png" alt="FACEBLOG.WEB.ID" /></a>
+			<div class="clear"></div>
+		</div><div id="login-panel" class="panel">
+	<div class="panel-container">
+		<form action="" method="post">
+			<label for="email">Email or username</label>
+			<input type="text" id="email" name="email" data-status="focus">
+			
+			<label for="password">Password:</label>
+			<input type="password" id="password" name="password">
+	
+			<button type="submit" class="btn"><span>Login</span></button>
+			
+			<div class="powered_by">
+			<!-- "Powered by Sharetronix" backlink -->
+				<!--
+				You are required to keep the "Powered by Sharetronix" backlink
+				as per the Sharetronix License: http://developer.sharetronix.com/license
+				-->
+				Copyright <a href="http://www.faceblog.web.id" target="_blank">FACEBLOG.WEB.ID</a>
+			<!-- "Powered by Sharetronix" backlink END -->
+			</div>
+			
+		</form>
+	</div>
+</div>
+
+<div class="clear"></div>	</body>
+</html>
